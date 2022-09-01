@@ -1,5 +1,5 @@
 # Hi, I'm Abdalllah Mtavya <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<h3 align="center">A passionate software developer based in Seoul, South Korea</h3>
+<h2 align="top">A passionate software developer based in Seoul, South Korea</h2>
 
 
 <table>
