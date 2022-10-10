@@ -5,7 +5,7 @@
 <table>
 
    #  🎓 I am currently pursuing my **Bachelor's in Electrical Engineering**.
-   #   🌱 I am currently learning **Django framework** and also interested in **Web Development**.
+   #   🌱 I am currently learning **React** and also interested in **Web Development**.
    #   💬 Ask me about react, Django, Django rest-framework, Mysql and Docker
    #   📫 How to reach me mtavya420@gmail.com
    #   🎯 My Goal is to Contribute to as many **open source project** as possible.
