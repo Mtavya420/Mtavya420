@@ -11,7 +11,7 @@ I am a Software Engineer with a strong educational background in computer scienc
 * ✉️  How to reach me [qaalan420@gmail.com](mailto:qaalan420@gmail.com)
 * 🚀  I'm currently working on [FItness Hero](http://fitness-hero.vercel.app)
 * 🧠  I'm learning React Js, NextJs
-* 🤝  I'm open to collaborating on I'm Looking to collaborate on ReactJs
+* 🤝  I'm open to collaborate on ReactJs
 * ⚡  My superpower? Coding by day, web-slinging by night 🕸️
 
 ### Skills
