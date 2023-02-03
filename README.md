@@ -9,7 +9,7 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 * 🌍  I'm based in Seoul, South Korea
 * 🖥️  See my portfolio at [Dullah Portfolio](http://dullah-portfolio.vercel.app)
 * ✉️  How to reach me [qaalan420@gmail.com](mailto:qaalan420@gmail.com)
-* 🚀  I'm currently working on [FItness Hero](http://fitness-hero.vercel.app)
+* 🚀  I'm currently working on [Fitness Hero](http://fitness-hero.vercel.app)
 * 🧠  I'm learning React Js, NextJs
 * 🤝  I'm open to collaborate on ReactJs
 * ⚡  My superpower? Coding by day, web-slinging by night 🕸️
@@ -45,7 +45,7 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/mtavya420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/Abdallah Mtavya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/mtavya420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://mtavya420.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Abdallah Mtavya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mtavya420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/mtavya420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.dev.to/Abdallah Mtavya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/mtavya420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://mtavya420.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abdallah-mtavya-07a9651a3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/mtavya420" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 ### Badges
 
 <b>My GitHub Stats</b>
