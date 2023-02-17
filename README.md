@@ -64,6 +64,12 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 
 <div width="100%" align="center"><a href="https://github.com/mtavya420/fitness_hero" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mtavya420&repo=fitness_hero&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
+### Support Bwax
 
 <a href="https://www.buymeacoffee.com/mtavya420"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zhkmixlf3hxgj3c23tlvr7neya&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zhkmixlf3hxgj3c23tlvr7neya&redirect=true)
+![Jokes Card](https://readme-jokes.vercel.app/api)
