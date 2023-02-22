@@ -14,7 +14,6 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 * 🤝  I'm open to collaborate on ReactJs
 * ⚡  My superpower? Coding by day, web-slinging by night 🕸️
 
-* Why do programmers prefer dark mode? Because light attracts bugs! 😄
 
 ### Skills
 
