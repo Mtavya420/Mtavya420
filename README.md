@@ -70,5 +70,5 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 <br>
 Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zhkmixlf3hxgj3c23tlvr7neya&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31zhkmixlf3hxgj3c23tlvr7neya&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=	317rsqznlqblkxws4bn2scqtc5dq&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=	317rsqznlqblkxws4bn2scqtc5dq&redirect=true)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
