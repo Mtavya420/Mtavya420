@@ -10,7 +10,7 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 * 🖥️  See my portfolio at [Dullah Portfolio](http://dullah-portfolio.vercel.app)
 * ✉️  How to reach me [qaalan420@gmail.com](mailto:qaalan420@gmail.com)
 * 🚀  I'm currently working on [Fitness Hero](http://fitness-hero.vercel.app)
-* 🧠  I'm learning React Js, NextJs
+* 🧠  I'm learning Typescript, NextJs
 * 🤝  I'm open to collaborate on ReactJs
 * ⚡  My superpower? Coding by day, web-slinging by night 🕸️
 
