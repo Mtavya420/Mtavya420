@@ -12,6 +12,7 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 * 🚀  I'm currently working on [Fitness Hero](http://fitness-hero.vercel.app)
 * 🧠  I'm learning Typescript, NextJs
 * 🤝  I'm open to collaborate on ReactJs
+- ⚡ Fun fact **Adventurous traveler, always exploring new cultures and places.** 🌎
 * ⚡  My superpower? Coding by day, web-slinging by night 🕸️
 
 
