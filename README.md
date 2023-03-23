@@ -7,7 +7,7 @@ Software Engineer
 I am a Software Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages. I am dedicated to creating top-quality software solutions and eager to bring my skills to a challenging and dynamic work environment. My goal is to make a positive impact in the world of technology through developing user-friendly interfaces, creating efficient algorithms and solving complex technical challenges
 
 * 🌍  I'm based in Seoul, South Korea
-* 🖥️  See my portfolio at [Dullah Portfolio](http://dullah-portfolio.vercel.app)
+* 🖥️  See my portfolio at [Dullah Portfolio](https://dullahfolio.vercel.app/)
 * ✉️  How to reach me [qaalan420@gmail.com](mailto:qaalan420@gmail.com)
 * 🚀  I'm currently working on [Booking Web App](https://elkpro.netlify.app/)
 * 🧠  I'm learning Typescript, NextJs
