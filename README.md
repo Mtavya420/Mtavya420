@@ -10,7 +10,7 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 * 🖥️  See my portfolio at [Dullah Portfolio](https://dullahfolio.vercel.app/)
 * ✉️  How to reach me [qaalan420@gmail.com](mailto:qaalan420@gmail.com)
 * 🚀  I'm currently working on [Booking Web App](https://elkpro.netlify.app/)
-* 🧠  I'm learning Typescript, NextJs
+* 🧠  I'm learning Typescript, Django rest framework
 * 🤝  I'm open to collaborate on NextJs, Django
 - ⚡ Fun fact **Adventurous traveler, always exploring new cultures and places.** 🌎
 * ⚡  My superpower? Coding by day, web-slinging by night 🕸️
