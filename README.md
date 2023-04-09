@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a Software Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages. I am dedicated to creating top-quality software solutions and eager to bring my skills to a challenging and dynamic work environment. My goal is to make a positive impact in the world of technology through developing user-friendly interfaces, creating efficient algorithms and solving complex technical challenges.
+I am a Software Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages. I am dedicated to creating top-quality software solutions and eager to bring my skills to a challenging and dynamic work environment. My goal is to make a positive impact through developing user-friendly interfaces, creating efficient algorithms and solving complex technical challenges.
 
 * 🌍  I'm based in Seoul, South Korea
 * 🖥️  See my portfolio at [Dullah Portfolio](https://dullahfolio.vercel.app/)
