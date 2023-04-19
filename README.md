@@ -13,8 +13,6 @@ I am a Software Engineer with a strong educational background in Electrical Engi
 * 🧠  I'm learning Typescript, Django rest framework
 * 🤝  I'm open to collaborate on NextJs, Django
 - ⚡ Fun fact **Adventurous traveler, always exploring new cultures and places.** 🌎
-* ⚡  My superpower? Coding by day, web-slinging by night 🕸️
-
 
 ### Skills
 
