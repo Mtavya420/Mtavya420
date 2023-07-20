@@ -3,14 +3,14 @@ Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 
 Software Engineer
 -----------------
-I am a full-stack Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages. I am interested in  Frontend, blockchain, Cloud Computing, System and Database design and RestfulAPIs.
+I am a full-stack Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages and frameworks. I am interested in  Frontend technologies, blockchain, Cloud Computing, System and Database design and RestfulAPIs.
 
+* 🚀  I'm currently working as a Full Stack Engineer at Sketchlab
 * 🌍  I'm based in Seoul, South Korea
 * 🖥️  See my portfolio at [Dullah Portfolio](https://dullahfolio.vercel.app/)
 * ✉️  How to reach me [qaalan420@gmail.com](mailto:qaalan420@gmail.com)
-* 🚀  I'm currently working on [Booking Web App](https://elkpro.vercel.app/)
-* 🧠  I'm currently learning FastApi
-* 🤝  I'm open to collaborate on NextJs, Django
+* 🧠  I'm currently learning Vue.js, Node.js
+* 🤝  I'm open to collaborate on React.Js, Django, Node.js
 - ⚡ Fun fact **Adventurous traveler, always exploring new cultures and places.** 🌎
 
 ### Skills
