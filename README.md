@@ -1,10 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdallah Mtavya
+Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Abdallah Mtavya
 =======================================================================================================================================
 
 Software Engineer
 -----------------
-
-I am a Software Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages. I am dedicated to creating top-quality software solutions and eager to bring my skills to a challenging and dynamic work environment. My goal is to make a positive impact through developing user-friendly interfaces, creating efficient algorithms and solving complex technical challenges.
+I am a full-stack Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages. I am interested in  Frontend, blockchain, Cloud Computing, System and Database design and RestfulAPIs.
 
 * 🌍  I'm based in Seoul, South Korea
 * 🖥️  See my portfolio at [Dullah Portfolio](https://dullahfolio.vercel.app/)
