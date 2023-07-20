@@ -1,7 +1,5 @@
 Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Abdallah Mtavya
 =======================================================================================================================================
-
-Software Engineer
 -----------------
 I am a full-stack Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages and frameworks. I am interested in  Frontend technologies, blockchain, Cloud Computing, System and Database design and RestfulAPIs.
 
