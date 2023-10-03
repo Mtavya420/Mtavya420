@@ -1,14 +1,15 @@
-Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Abdallah Mtavya
+Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Abdallah Mtavya.
 =======================================================================================================================================
-I am a full-stack Engineer with a strong educational background in Electrical Engineering and hands-on experience in various programming languages and frameworks. I am interested in  Frontend technologies, blockchain, Cloud Computing, System and Database design and RestfulAPIs.
 
-* 🚀  I'm currently working as a Full Stack Engineer at Sketchlab
-* 🌍  I'm based in Seoul, South Korea
-* 🖥️  See my portfolio at [Dullah Portfolio](https://dullahfolio.vercel.app/)
-* ✉️  How to reach me [qaalan420@gmail.com](mailto:qaalan420@gmail.com)
-* 🧠  I'm currently learning Vue.js, Node.js
-* 🤝  I'm open to collaborate on React.Js, Django, Node.js
-- ⚡ Fun fact **Adventurous traveler, always exploring new cultures and places.** 🌎
+I'm a Full-Stack Engineer with a strong educational background in Electrical Engineering. I have hands-on experience with various programming languages and frameworks, and I'm particularly interested in frontend technologies, blockchain, cloud computing, system and database design, and RESTful APIs.
+
+* 🚀 Currently working as a Full Stack Engineer at Sketchlab.
+* 🌍 Based in Seoul, South Korea.
+* 🖥️ Check out my portfolio: [Dullah's Portfolio](https://dullahfolio.vercel.app/).
+* ✉️ Reach out to me at [qaalan420@gmail.com](mailto:qaalan420@gmail.com).
+* 🧠 Currently learning Vue.js and Node.js.
+* 🤝 Open to collaborations involving React.js, Django, and Node.js.
+* ⚡ Fun fact: I'm an adventurous traveler who loves exploring new cultures and places! 🌎
 
 ### Skills
 
