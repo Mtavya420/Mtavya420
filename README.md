@@ -1,4 +1,4 @@
-"Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 👋, Abdallah Mtavya
+"Hey There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Abdallah Mtavya
 =======================================================================================================================================
 
 I'm a Full-Stack Engineer with a strong educational background in Electrical Engineering. I have hands-on experience with various programming languages and frameworks, and I'm particularly interested in frontend technologies, blockchain, cloud computing, system and database design, and RESTful APIs.
