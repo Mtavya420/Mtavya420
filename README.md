@@ -3,7 +3,7 @@
 
 I'm a Full-Stack Engineer with a strong educational background in Electrical Engineering. I have hands-on experience with various programming languages and frameworks, and I'm particularly interested in frontend technologies, blockchain, cloud computing, system and database design, and RESTful APIs.
 
-* 🚀 Currently working as a Full Stack Engineer at Sketchlab.
+* 🚀 Currently working as a Software Engineer at EzCaretech.
 * 🌍 Based in Seoul, South Korea.
 * 🖥️ Check out my portfolio: [Dullah's Portfolio](https://dullahfolio.vercel.app/).
 * ✉️ Reach out to me at [qaalan420@gmail.com](mailto:qaalan420@gmail.com).
