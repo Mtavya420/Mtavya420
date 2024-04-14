@@ -7,7 +7,7 @@ I'm a Full-Stack Engineer with a strong educational background in Electrical Eng
 * 🌍 Based in Seoul, South Korea.
 * 🖥️ Check out my portfolio: [Dullah's Portfolio](https://dullahfolio.vercel.app/).
 * ✉️ Reach out to me at [qaalan420@gmail.com](mailto:qaalan420@gmail.com).
-* 🧠 Currently learning Vue.js and Node.js.
+* 🧠 Currently learning .Net Framework.
 * 🤝 Open to collaborations involving React.js, Django, and Node.js.
 * ⚡ Fun fact: I'm an adventurous traveler who loves exploring new cultures and places! 🌎
 
